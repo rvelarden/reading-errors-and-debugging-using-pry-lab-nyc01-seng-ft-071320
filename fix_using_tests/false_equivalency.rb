@@ -2,7 +2,7 @@
 require 'pry'
 def get_user_input
   gets.chomp
- puts  "HAM HAM HAM IN MY TUMMY"
+  
 end
 
 def prompt_user
@@ -15,6 +15,7 @@ def selection(num)
   if num = 1
    
      "YUM YUM MUNCH MUNCH MUNCH"
+     true 
   elsif num = 2
  
      "HAM HAM HAM IN MY TUMMY"
