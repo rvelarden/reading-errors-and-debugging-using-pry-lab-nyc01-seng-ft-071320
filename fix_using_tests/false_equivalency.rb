@@ -16,6 +16,7 @@ def selection(num)
    
      "YUM YUM MUNCH MUNCH MUNCH"
      true 
+     false 
   elsif num = 2
  
      "HAM HAM HAM IN MY TUMMY"
