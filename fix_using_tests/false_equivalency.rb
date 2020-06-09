@@ -2,7 +2,7 @@
 require 'pry'
 def get_user_input
   gets.chomp
- puts  
+ puts  "HAM HAM HAM IN MY TUMMY"
 end
 
 def prompt_user
