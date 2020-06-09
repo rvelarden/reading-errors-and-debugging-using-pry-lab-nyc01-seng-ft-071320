@@ -8,9 +8,8 @@ end
 def state_log(star_date)
   "Captain's Log, star date #{star_date}."
 end
-
+binding.pry 
 def engage
-  binding.pry 
   date = the_final_frontier
   the_final_frontier
   puts state_log(date)
