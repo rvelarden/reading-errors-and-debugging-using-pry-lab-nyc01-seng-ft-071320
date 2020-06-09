@@ -8,7 +8,7 @@ end
 def state_log(star_date)
   "Captain's Log, star date #{star_date}."
 end
-binding.pry 
+
 def engage
   date = the_final_frontier
   the_final_frontier
