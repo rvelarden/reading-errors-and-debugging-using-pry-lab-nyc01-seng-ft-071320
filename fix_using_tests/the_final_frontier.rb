@@ -12,5 +12,5 @@ end
 def engage
   puts state_log(date)
   date = the_final_frontier
-  binding.pry 
+
 end
