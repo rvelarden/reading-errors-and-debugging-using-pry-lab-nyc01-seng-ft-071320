@@ -2,8 +2,8 @@
 require 'pry'
 def snake_it_up(string)
   if string[0] = "sssssssssssurprise!"
-    
-    10.times "s" + string 
+    num = "s"
+    10 * num + string 
   else
     string
   end
