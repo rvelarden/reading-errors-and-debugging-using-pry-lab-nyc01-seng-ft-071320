@@ -10,7 +10,7 @@ def prompt_user
   puts "1.) Eat a hamburger."
   puts "2.) Eat a ham."
 end
-require 'pry'
+
 def selection(num)
   if num = 1
    
