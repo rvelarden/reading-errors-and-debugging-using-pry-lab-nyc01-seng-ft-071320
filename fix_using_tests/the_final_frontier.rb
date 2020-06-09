@@ -12,7 +12,6 @@ end
 def engage
   date = the_final_frontier
   the_final_frontier
-  return  = "captain's log and crew greetings"
   puts state_log(date)
   
 end
