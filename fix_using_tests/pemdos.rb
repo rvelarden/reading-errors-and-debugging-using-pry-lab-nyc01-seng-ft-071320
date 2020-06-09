@@ -4,7 +4,7 @@ def snake_it_up(string)
   if string[0] = "s"
     num = "s" + string 
     number = 10 
-    number * num 
+    num * 10 
   else
     string
   end
