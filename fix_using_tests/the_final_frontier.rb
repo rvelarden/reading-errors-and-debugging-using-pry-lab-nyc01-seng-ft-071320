@@ -12,5 +12,5 @@ end
 def engage
   puts state_log(date)
   date = the_final_frontier
-  the_final_frontier = 
+  the_final_frontier = "Captain's Log, star date"
 end
