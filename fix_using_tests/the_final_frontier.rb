@@ -13,5 +13,4 @@ def engage
   date = the_final_frontier
   puts state_log(date)
   
-  
 end
