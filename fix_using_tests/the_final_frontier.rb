@@ -10,8 +10,8 @@ def state_log(star_date)
 end
 
 def engage
-  date = the_final_frontier
   the_final_frontier = "captain's log and crew greetings"
+  date = the_final_frontier
   puts state_log(date)
   
 end
