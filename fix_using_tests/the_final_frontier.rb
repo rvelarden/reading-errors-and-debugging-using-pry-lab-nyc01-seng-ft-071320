@@ -1,5 +1,5 @@
 # don't forget to add: require 'pry'
-
+require 'pry'
 def generate_star_date
   (rand(100000) + 400000) / 10.0
 end
@@ -10,6 +10,8 @@ def state_log(star_date)
 end
 
 def engage
+  the_final_frontier = "captain's log and crew greetings"
+  date = the_final_frontier
   puts state_log(date)
-  date = generate_star_date
+  
 end
